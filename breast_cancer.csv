@@ -1,0 +1,35 @@
+ID,Question,Answer,Label
+1,Name,Haleema Anwar,0
+2,Age,26-35,0
+3,Positive Family Hx for Breast CA,yes,1
+4,At what age did you birth to your first child?,before 30,0
+5,What is your BMI?,25-28,0
+7,Have you ever been diagnosed with breast cancer?,AGREE,1
+8,Do you have a family history of Breast Cancer in a first degree relative?,AGREE,1
+9,Have you ever had abnormal breast biopsies or other breast conditions?,AGREE,1
+10,Have you ever undergone radiation therapyto the chest area?,AGREE,1
+11,Have you ever taken HRT or oral contraceptives?,DISAGREE,0
+12,At what age did you start menstruating?,AGREE,1
+13,Have you ever been pregnant? If so at what ages?,AGREE,1
+14,At what age did you reach menopause if applicable?,DISAGREE,0
+15,Do you consume alcohol? If so how many drinks a week?,DISAGREE,0
+16,Are you physically active on a regular basis?,AGREE,1
+17,"Have you ever been exposed to environmental pollutants, pesticides or chemicals used in plastics?",AGREE,1
+18,Are you a working woman?,AGREE,1
+19,Do you shield yourself in that environment?,DISAGREE,0
+20,Is there any sort of bloody discharge from the nipple?,DISAGREE,0
+21,Is there a lump present in the breast/underarm?,AGREE,1
+22,Is there any dimpling in the skin of the breast?,AGREE,1
+23,Is there a change in the position of the nipple?,AGREE,1
+24,Are there any persistent signs of inflammation (redness/swelling)?,DISAGREE,0
+25,Is there any recent change in shape or size of breast?,AGREE,1
+26,Is there new pain at a specific point in the breast that doesnt subside?,AGREE,1
+27,Is there any redness or flaky skin the areolar region of the breast?,DISAGREE,0
+28,Do you have constant backache that increases with time or any non healing bone fractures that were because of a minor injury?,DISAGREE,0
+29,Are there complaints of shortness of breath / difficulty in breathing/ non settling cough/chest wall pain/ fatigue?,AGREE,1
+,"Are there complaints of nausea, fatigue, increased abdominal girth, swelling in feet and hands or itchy skin?",DISAGREE,0
+,"Are there complaints of constant headaches blurred/double vision, speech difficulty, movement difficulty or seizures?",DISAGREE,0
+,Are there complaints of loss of appetite or prominent weight loss?,AGREE,1
+,"Is the lump painless, mobile, solitary or rubbery in consistency",AGREE,1
+,Does ultrasound report indicate a well circumscribed round to oval or macrobulated mass with uniform hypoechogenicity?,AGREE,1
+,Is the lump painful during monthly cycles with the pain subsiding as the cycle ends?,AGREE,1
